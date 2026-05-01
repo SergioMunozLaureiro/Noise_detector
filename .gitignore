@@ -1,0 +1,20 @@
+# --- Arduino IDE ---
+# Ignore compilation folders
+build/
+bin/
+
+# Ignore binary archives generated
+*.hex
+*.elf
+*.lst
+*.o
+*.a
+
+# --- System archives ---
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+
+# --- Arduino IDE 2.0+ ---
+.arduino/
